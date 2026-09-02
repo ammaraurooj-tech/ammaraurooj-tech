@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:4a2b8c&height=220&section=header&text=Hi,%20I'm%20Ammara%20Urooj&fontSize=44&fontColor=D9C6FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20%26%20Mobile%20Developer%20%7C%20Flutter%20%7C%20React&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0524,50:2d1b4e,100:4a2b8c&height=220&section=header&text=Hi,%20I'm%20Ammara%20Urooj&fontSize=44&fontColor=D9C6FF&animation=fadeIn&fontAlignY=38&desc=Frontend%20and%20Mobile%20Developer%20%7C%20Flutter%20%7C%20React&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+cross-platform+apps+with+Flutter+%26+Dart;Crafting+responsive+UIs+with+React+%26+JavaScript;Integrating+REST+APIs+%2B+Firebase+into+production+apps;Currently+contributing+to+Escape+%E2%80%94+a+self-care+app" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+cross-platform+apps+with+Flutter+and+Dart;Crafting+responsive+UIs+with+React+and+JavaScript;Integrating+REST+APIs+and+Firebase+into+production+apps;Currently+contributing+to+Escape+%E2%80%94+a+self-care+app" alt="Typing SVG" />
 </a>
 
 <br/>
